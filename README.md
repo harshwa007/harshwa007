@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LeetCode Solutions**
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **Microservices with java**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
